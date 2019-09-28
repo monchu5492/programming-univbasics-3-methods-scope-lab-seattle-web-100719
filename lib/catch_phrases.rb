@@ -13,5 +13,6 @@ end
 
 def any_phrase(string)
   phrase = "Do A Barrel Roll!"
+  puts phrase
 end
- puts phrase
+ 
