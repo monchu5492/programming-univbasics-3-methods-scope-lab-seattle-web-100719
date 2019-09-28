@@ -8,6 +8,6 @@ def toadstool
 end
 
 def link 
-  puts 
+  puts saying = ''
   
  
